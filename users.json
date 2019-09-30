@@ -1,0 +1,24 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Bayalagmaa",
+        "password": "bayalagmaa"
+      },
+      {
+        "id": 2,
+        "name": "Anu",
+        "password": "anu"
+      },
+      {
+        "id": 3,
+        "name": "Tugsbaysgalan",
+        "password": "tugsbaysgalan"
+      },
+      {
+          "id": 4,
+          "name": "Misheel",
+          "password": "misheel"
+      }
+    ]
+  }
