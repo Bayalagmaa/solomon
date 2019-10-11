@@ -1,24 +1,24 @@
 {
-    "users": [
+    "data": [
       {
         "id": 1,
-        "name": "Bayalagmaa",
-        "password": "bayalagmaa"
+        "title" : "haha",
+        "news" : "ashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdf ashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdf"
       },
       {
         "id": 2,
-        "name": "Anu",
-        "password": "anu"
+       "title" : "haha",
+        "news" : "ashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdf ashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdf"
       },
       {
         "id": 3,
-        "name": "Tugsbaysgalan",
-        "password": "tugsbaysgalan"
+        "title" : "haha",
+        "news" : "ashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdf ashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdf"
       },
       {
           "id": 4,
-          "name": "Misheel",
-          "password": "misheel"
+          "title": "Misheel",
+ "news" : "ashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdf ashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdfashjvblhsfbvlwehbfvhwdbvwjhfdvbjrhdvbwhbivbwfvjxv hsdjfbv ruhw wjbru gbru hjgburhjvsbjhwbdvhjbwuvhjwebjhvbjwhbvjhsfdbvjvhdfsvjsdf"
       }
     ]
   }
